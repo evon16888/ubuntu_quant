@@ -6,4 +6,4 @@
 
 https://pypi.org/project/ccxt/#files  找到最新的whl文件，手动安装一下即可
 
-pip3 install ccxt*.whl
+    pip3 install ccxt*.whl
