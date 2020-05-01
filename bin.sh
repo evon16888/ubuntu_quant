@@ -17,6 +17,9 @@ sudo pip3 install ccxt
 echo "正在安装pymysql"
 sudo pip3 install pymysql
 
+echo "正在安装tabulate"
+pip3 install tabulate
+
 echo "正在安装sqlalchemy"
 
 sudo pip3 install sqlalchemy
